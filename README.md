@@ -1,5 +1,5 @@
 This is a sample app in nodejs that :
-It supports the following -:
+supports the following -:
 1. All Car LookUp
 2. Car LookUp by Model
 3. Car LookUp by Name
